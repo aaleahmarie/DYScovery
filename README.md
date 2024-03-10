@@ -13,7 +13,7 @@ It offers the following features:
 
 [![thumbnail](/pics/thumbnail.png)](https://youtu.be/7NzQw5uOy1Q)
 
-### Interested? Try it yourself [here!](https://uwsocialcomputing.github.io/DYScovery-code/)
+### Interested? Try it yourself [here!](https://uwsocialcomputing.github.io/D-NA/)
 
 ## Development Process
 ### [G1: User Research](G1.md)
